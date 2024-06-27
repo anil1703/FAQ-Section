@@ -1,0 +1,27 @@
+/* Write your code here. */
+.style {
+  min-height: 70px;
+  width: 700px;
+  margin-bottom: 15px;
+  padding: 20px;
+  border-radius: 12px;
+  border: 1px solid #d7dae6;
+  font-family: Roboto;
+}
+.btn-style {
+  background-color: transparent;
+  border: none;
+  cursor: pointer;
+}
+.inside {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 35px;
+}
+.bottom{
+  border-top: 1px solid #d7dae6;
+  color: #9aa5b1;
+  padding-top: 10px;
+  margin-top: 15px;
+}
